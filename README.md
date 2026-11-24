@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d91,100:2c9ab7&height=200&section=header&text=Hi,%20I'm%20Ioanna&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Data%20Analyst%20%7C%20SQL%20%C2%B7%20Python%20%C2%B7%20Machine%20Learning&descAlignY=58&descSize=18&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d91,100:2c9ab7&height=200&section=header&text=Hi,%20I'm%20Ioanna&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Data%20Scientist%20%26%20Analyst%20%7C%20Python%20%C2%B7%20SQL%20%C2%B7%20Statistics&descAlignY=58&descSize=18&animation=fadeIn" alt="Header" />
 </p>
 
 <p align="center">
@@ -10,17 +10,20 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ioanna-malli-a58ba5255/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/ioannamalli-hub?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
+  <img src="https://img.shields.io/badge/Based%20in-Tallinn%2C%20Estonia-2C9AB7?style=for-the-badge" alt="Based in Tallinn, Estonia" />
 </p>
 
 ---
 
 ## 👩‍💻 About me
 
-- 📊 Data analyst who likes questions with a business decision at the end: **who pays, when, why they leave, and what it costs**.
-- 🔍 I start with data quality and simple checks, and I look hard for results that are *too* good (leakage, recruitment bias).
-- 💬 I write findings for non-technical readers first, then show the method.
-- 🌱 Currently looking for a **data analyst** role.
-- 🚀 Open to helping **early-stage startups make sense of their data**.
+- 🎓 **MSc Data Science (Distinction)** and **BSc Mathematics with Economics**, Loughborough University.
+- 🚦 My MSc thesis, a **digital twin of traffic on Milos Island**, is under review at a Springer journal.
+- 🥡 **Ex-founder of Dish Up** (2025–26), a food-rescue marketplace in Tallinn from the Tehnopol Sprint programme. I built the app, ran the research and sales, and used data to guide our decisions.
+- 🏅 Greek **national-team javelin thrower**. Sport taught me discipline; data taught me that things are rarely what they seem at first.
+- 📊 I like questions with a business decision at the end: **who pays, when, why they leave, and what it costs**. I write findings for non-technical readers first.
+- 🌱 Open to **Data Analyst and Data Scientist** roles (Tallinn, hybrid or remote).
+- 🚀 Happy to help **early-stage startups make sense of their data**.
 
 ## 🧰 Tech stack
 
