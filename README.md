@@ -33,12 +33,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="42" alt="pandas" title="pandas" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="42" alt="matplotlib" title="matplotlib" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="42" alt="Jupyter" title="Jupyter" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="42" alt="R" title="R" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" height="42" alt="RStudio" title="RStudio" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="42" alt="scikit-learn" title="scikit-learn" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="42" alt="VS Code" title="VS Code" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="42" alt="Git" title="Git" />
 </p>
 
-![SQL](https://img.shields.io/badge/SQL-CTEs%20%C2%B7%20window%20functions-336791?style=flat-square&logo=databricks&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-imbalanced%20data-189FDD?style=flat-square) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square) ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square) ![Stats](https://img.shields.io/badge/Stats-χ²%20·%20logistic%20regression%20·%20A%2FB%20tests-6A5ACD?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-CTEs%20%C2%B7%20window%20functions-336791?style=flat-square&logo=databricks&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-imbalanced%20data-189FDD?style=flat-square) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square) ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square) ![Stats](https://img.shields.io/badge/Stats-χ²%20·%20logistic%20regression%20·%20A%2FB%20tests-6A5ACD?style=flat-square)
 
 ## 🚀 Featured projects
 
